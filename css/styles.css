@@ -20,9 +20,14 @@
     background: #9575CD ;
     color:floralwhite;
 }
+.navbar-dark{
+	background-color: #512DA8;
+
+}
 
 address{
     font-size:80%;
     margin:0px;
     color:#0f0f0f;
 }
+
