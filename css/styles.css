@@ -65,3 +65,9 @@ address{
     left: 0;
     min-height: 300px;
 }
+
+ .green-btn:focus{
+    color: white;
+    border-color: black;
+    box-shadow: green!important;
+}
